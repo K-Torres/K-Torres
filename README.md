@@ -152,7 +152,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=k-torres&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=k-torres&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide=scss,css"
     alt="k-torres"
   />
 </p>
